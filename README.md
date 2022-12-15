@@ -1,8 +1,6 @@
 # Spotify Tokyo Night Theme
 
-Spotify Tokyo Night Theme to use with [Spicetify](https://spicetify.app/); based on the famous [Tokyio Night VSCode colorscheme](https://github.com/enkia/tokyo-night-vscode-theme#color-palette).
-
-:rotating_light: :rotating_light: :construction: THIS IS NOT READY YET :construction: :rotating_light: :rotating_light:
+Spotify Tokyo Night Theme to use with [Spicetify](https://spicetify.app/); based on the famous [Tokyio Night VSCode colorscheme](https://github.com/enkia/tokyo-night-vscode-theme#color-palette) and on the [Spicetify Sleek theme](https://github.com/spicetify/spicetify-themes/blob/master/THEMES.md#sleek).
 
 ## Install
 
@@ -29,4 +27,17 @@ Spotify Tokyo Night Theme to use with [Spicetify](https://spicetify.app/); based
    spicetify apply
    ````
 
-   
+
+## Color Schemes
+
+### Night
+
+![](night.png)
+
+### Storm
+
+Not implemented yet
+
+### Light
+
+Not implemented yet
