@@ -36,8 +36,8 @@ Spotify Tokyo Night Theme to use with [Spicetify](https://spicetify.app/); based
 
 ### Storm
 
-Not implemented yet
+![](storm.png)
 
 ### Light
 
-Not implemented yet
+![](light.png)
