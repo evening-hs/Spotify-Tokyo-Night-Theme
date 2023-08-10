@@ -16,7 +16,8 @@ Spotify Tokyo Night Theme to use with [Spicetify](https://spicetify.app/); based
 
    ````bash
    mkdir ~/.config/spicetify/Themes/Tokyo
-   cp -r Spotify-Tokyo-Night-Theme/* ~/.config/spicetify/Themes
+   cd Spotify-Tokyo-Night-Theme
+   cp color.ini user.css ~/.config/spicetify/Themes/Tokyo # Moving only neccessary files to the right directory
    ````
 
 4. Apply the theme
